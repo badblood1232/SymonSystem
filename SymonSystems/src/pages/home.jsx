@@ -216,7 +216,7 @@ function Home() {
             <p><strong>Symon Systems and Allied Services</strong></p>
             <p>Location: Mandaue City, Cebu, Philippines</p>
             <p>Email: info@symonsystems.com</p>
-            <p>Phone: Insert company contact number</p>
+         {/*	 <p>Phone: Insert company contact number</p */}
             <p><strong>Business Hours</strong></p>
             <p>Monday - Friday, 8:00 AM - 5:00 PM</p>
           </div>
